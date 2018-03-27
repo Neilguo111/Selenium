@@ -1,0 +1,603 @@
+1520598047933	geckodriver	INFO	geckodriver 0.19.1
+1520598047954	geckodriver	INFO	Listening on 127.0.0.1:54760
+1520598050421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.8SLHNwGQJzna"
+1520598053476	Marionette	INFO	Enabled via --marionette
+1520598061199	Marionette	INFO	Listening on port 54770
+1520598061531	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1453_21120_20719&req=2&csor=1&cb=jQuery1102032974351440278205_1520598065517&_=1520598065519, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1453_21120_20719&req=2&csor=7&pwd=seleni&cb=jQuery1102032974351440278205_1520598065517&_=1520598065525, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1453_21120_20719&req=2&csor=3&pwd=se&cb=jQuery1102032974351440278205_1520598065517&_=1520598065521, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1453_21120_20719&req=2&csor=4&pwd=sel&cb=jQuery1102032974351440278205_1520598065517&_=1520598065522, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1453_21120_20719&req=2&csor=9&pwd=selenium&cb=jQuery1102032974351440278205_1520598065517&_=1520598065527, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1453_21120_20719&req=2&csor=5&pwd=sele&cb=jQuery1102032974351440278205_1520598065517&_=1520598065523, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1453_21120_20719&req=2&csor=8&pwd=seleniu&cb=jQuery1102032974351440278205_1520598065517&_=1520598065526, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1453_21120_20719&req=2&csor=6&pwd=selen&cb=jQuery1102032974351440278205_1520598065517&_=1520598065524, line 1: TypeError: jQuery1102032974351440278205_1520598065517 is not a function
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520598095412	geckodriver	INFO	geckodriver 0.19.1
+1520598095433	geckodriver	INFO	Listening on 127.0.0.1:54864
+1520598098421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.SJL1Rn86AK7q"
+1520598100962	Marionette	INFO	Enabled via --marionette
+1520598105613	Marionette	INFO	Listening on port 54872
+1520598105784	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=3&pwd=se&cb=jQuery110201689235656862793_1520598108839&_=1520598108843, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=2&pwd=s&cb=jQuery110201689235656862793_1520598108839&_=1520598108842, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=6&pwd=selen&cb=jQuery110201689235656862793_1520598108839&_=1520598108846, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=4&pwd=sel&cb=jQuery110201689235656862793_1520598108839&_=1520598108844, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=5&pwd=sele&cb=jQuery110201689235656862793_1520598108839&_=1520598108845, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=1&cb=jQuery110201689235656862793_1520598108839&_=1520598108841, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=7&pwd=seleni&cb=jQuery110201689235656862793_1520598108839&_=1520598108847, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=8&pwd=seleniu&cb=jQuery110201689235656862793_1520598108839&_=1520598108848, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1460_21102_17001_22075&req=2&csor=9&pwd=selenium&cb=jQuery110201689235656862793_1520598108839&_=1520598108849, line 1: TypeError: jQuery110201689235656862793_1520598108839 is not a function
+1520600437044	geckodriver	INFO	geckodriver 0.19.1
+1520600437065	geckodriver	INFO	Listening on 127.0.0.1:55425
+1520600440040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.Zl17AmBCM8fx"
+1520600442315	Marionette	INFO	Enabled via --marionette
+1520600449567	Marionette	INFO	Listening on port 55434
+1520600450016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=2&pwd=s&cb=jQuery1102038301303074378645_1520600457764&_=1520600457767, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=4&pwd=sel&cb=jQuery1102038301303074378645_1520600457764&_=1520600457769, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=1&cb=jQuery1102038301303074378645_1520600457764&_=1520600457766, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=3&pwd=se&cb=jQuery1102038301303074378645_1520600457764&_=1520600457768, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=7&pwd=seleni&cb=jQuery1102038301303074378645_1520600457764&_=1520600457772, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=6&pwd=selen&cb=jQuery1102038301303074378645_1520600457764&_=1520600457771, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=9&pwd=selenium&cb=jQuery1102038301303074378645_1520600457764&_=1520600457774, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=8&pwd=seleniu&cb=jQuery1102038301303074378645_1520600457764&_=1520600457773, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1436_21119_18559_22157&req=2&csor=5&pwd=sele&cb=jQuery1102038301303074378645_1520600457764&_=1520600457770, line 1: TypeError: jQuery1102038301303074378645_1520600457764 is not a function
+1520601196153	geckodriver	INFO	geckodriver 0.19.1
+1520601196177	geckodriver	INFO	Listening on 127.0.0.1:55597
+1520601199157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.jTVzqz4YROhS"
+1520601201550	Marionette	INFO	Enabled via --marionette
+1520601205221	Marionette	INFO	Listening on port 55605
+1520601205529	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1466_21090_18559_20928&req=2&csor=3&pwd=se&cb=jQuery110205609479517103365_1520601207673&_=1520601207677, line 1: TypeError: jQuery110205609479517103365_1520601207673 is not a function
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+1520601666601	geckodriver	INFO	geckodriver 0.19.1
+1520601666630	geckodriver	INFO	Listening on 127.0.0.1:55756
+1520601669605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.FXgwCEQ8gsBL"
+1520601672013	Marionette	INFO	Enabled via --marionette
+1520601675339	Marionette	INFO	Listening on port 55765
+1520601675365	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520601731874	geckodriver	INFO	geckodriver 0.19.1
+1520601731895	geckodriver	INFO	Listening on 127.0.0.1:55871
+1520601734905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.7fqsmuvtURmf"
+1520601737044	Marionette	INFO	Enabled via --marionette
+1520601740421	Marionette	INFO	Listening on port 55879
+1520601740674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520601836439	geckodriver	INFO	geckodriver 0.19.1
+1520601836459	geckodriver	INFO	Listening on 127.0.0.1:55972
+1520601839454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.Lvize7YQ8vSQ"
+1520601841331	Marionette	INFO	Enabled via --marionette
+1520601844527	Marionette	INFO	Listening on port 55980
+1520601844706	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: http://news.baidu.com/, line 685: ReferenceError: require is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520602402165	geckodriver	INFO	geckodriver 0.19.1
+1520602402187	geckodriver	INFO	Listening on 127.0.0.1:53655
+1520602405156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.ffmfL4dKKku3"
+1520602407092	Marionette	INFO	Enabled via --marionette
+1520602410570	Marionette	INFO	Listening on port 53664
+1520602410909	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520602509382	geckodriver	INFO	geckodriver 0.19.1
+1520602509404	geckodriver	INFO	Listening on 127.0.0.1:53798
+1520602512487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.CpzCwXhYiDc5"
+1520602514741	Marionette	INFO	Enabled via --marionette
+1520602518175	Marionette	INFO	Listening on port 53807
+1520602518259	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://shared.ydstatic.com/dict/v2016/result/160621/result-min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 8060, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1520602725247	geckodriver	INFO	geckodriver 0.19.1
+1520602725268	geckodriver	INFO	Listening on 127.0.0.1:53930
+1520602728270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.GNWVEZ5DSUDC"
+1520602729850	Marionette	INFO	Enabled via --marionette
+1520602733671	Marionette	INFO	Listening on port 53938
+1520602734025	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520603149164	geckodriver	INFO	geckodriver 0.19.1
+1520603149186	geckodriver	INFO	Listening on 127.0.0.1:62527
+1520603152181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.B5iSBeDfqKeW"
+1520603154459	Marionette	INFO	Enabled via --marionette
+1520603161169	Marionette	INFO	Listening on port 62545
+1520603161676	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+1520603677721	geckodriver	INFO	geckodriver 0.19.1
+1520603677745	geckodriver	INFO	Listening on 127.0.0.1:62673
+1520603680729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.XBYsrV8zJ7i5"
+1520603682775	Marionette	INFO	Enabled via --marionette
+1520603686428	Marionette	INFO	Listening on port 62682
+1520603686483	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=7&pwd=seleni&cb=jQuery110206506086071600715_1520603692887&_=1520603692894, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=6&pwd=selen&cb=jQuery110206506086071600715_1520603692887&_=1520603692893, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=5&pwd=sele&cb=jQuery110206506086071600715_1520603692887&_=1520603692892, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=4&pwd=sel&cb=jQuery110206506086071600715_1520603692887&_=1520603692891, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=8&pwd=seleniu&cb=jQuery110206506086071600715_1520603692887&_=1520603692895, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniumm&json=1&p=3&sid=1443_13550_21110_17001_22072&req=2&csor=9&pwd=selenium&cb=jQuery110206506086071600715_1520603692887&_=1520603692896, line 1: TypeError: jQuery110206506086071600715_1520603692887 is not a function
+1520603723013	geckodriver	INFO	geckodriver 0.19.1
+1520603723037	geckodriver	INFO	Listening on 127.0.0.1:62755
+1520603726025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.mjdQRkZ25K8X"
+1520603727967	Marionette	INFO	Enabled via --marionette
+1520603731387	Marionette	INFO	Listening on port 62763
+1520603731782	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1429_21094_22073&req=2&csor=2&pwd=s&cb=jQuery110207371791941833119_1520603733985&_=1520603733988, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1429_21094_22073&req=2&csor=3&pwd=se&cb=jQuery110207371791941833119_1520603733985&_=1520603733989, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1429_21094_22073&req=2&csor=1&cb=jQuery110207371791941833119_1520603733985&_=1520603733987, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1429_21094_22073&req=2&csor=6&pwd=selen&cb=jQuery110207371791941833119_1520603733985&_=1520603733992, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1429_21094_22073&req=2&csor=4&pwd=sel&cb=jQuery110207371791941833119_1520603733985&_=1520603733990, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1429_21094_22073&req=2&csor=5&pwd=sele&cb=jQuery110207371791941833119_1520603733985&_=1520603733991, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1429_21094_22073&req=2&csor=7&pwd=seleni&cb=jQuery110207371791941833119_1520603733985&_=1520603733993, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1429_21094_22073&req=2&csor=8&pwd=seleniu&cb=jQuery110207371791941833119_1520603733985&_=1520603733994, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1429_21094_22073&req=2&csor=8&pwd=seleniumm&cb=jQuery110207371791941833119_1520603733985&_=1520603733996, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%E6%95%99&json=1&p=3&sid=1429_21094_22073&req=2&csor=9&pwd=selenium&cb=jQuery110207371791941833119_1520603733985&_=1520603733997, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniumm&json=1&p=3&sid=1429_21094_22073&req=2&csor=9&pwd=selenium&cb=jQuery110207371791941833119_1520603733985&_=1520603733995, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%E6%95%99%E7%A8%8B&json=1&p=3&sid=1429_21094_22073&req=2&csor=10&pwd=selenium%E6%95%99&cb=jQuery110207371791941833119_1520603733985&_=1520603733998, line 1: TypeError: jQuery110207371791941833119_1520603733985 is not a function
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520691223491	geckodriver	INFO	geckodriver 0.19.1
+1520691223538	geckodriver	INFO	Listening on 127.0.0.1:63505
+1520691226550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.M1UqXxh5TV5D"
+1520691229501	Marionette	INFO	Enabled via --marionette
+1520691234588	Marionette	INFO	Listening on port 63515
+1520691234928	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520767104782	geckodriver	INFO	geckodriver 0.19.1
+1520767104798	geckodriver	INFO	Listening on 127.0.0.1:62251
+1520767107720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.dwUyZ4TU2IPW"
+1520767110539	Marionette	INFO	Enabled via --marionette
+1520767116204	Marionette	INFO	Listening on port 62266
+1520767117195	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1437_21104_20927&req=2&csor=5&pwd=sele&cb=jQuery1102019447397273445421_1520767120008&_=1520767120014, line 1: TypeError: jQuery1102019447397273445421_1520767120008 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1437_21104_20927&req=2&csor=6&pwd=selen&cb=jQuery1102019447397273445421_1520767120008&_=1520767120015, line 1: TypeError: jQuery1102019447397273445421_1520767120008 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1437_21104_20927&req=2&csor=7&pwd=seleni&cb=jQuery1102019447397273445421_1520767120008&_=1520767120016, line 1: TypeError: jQuery1102019447397273445421_1520767120008 is not a function
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520767410482	geckodriver	INFO	geckodriver 0.19.1
+1520767410491	geckodriver	INFO	Listening on 127.0.0.1:62363
+1520767413506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.OcybQIWLGfNX"
+1520767414679	Marionette	INFO	Enabled via --marionette
+1520767418443	Marionette	INFO	Listening on port 62371
+1520767418782	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520767780270	geckodriver	INFO	geckodriver 0.19.1
+1520767780280	geckodriver	INFO	Listening on 127.0.0.1:62484
+1520767783274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.ams9RsjQpKOP"
+1520767784448	Marionette	INFO	Enabled via --marionette
+1520767788278	Marionette	INFO	Listening on port 62492
+1520767788536	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520774388462	geckodriver	INFO	geckodriver 0.19.1
+1520774388498	geckodriver	INFO	Listening on 127.0.0.1:51481
+1520774391510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.a0DdxL6n9lzl"
+1520774394815	Marionette	INFO	Enabled via --marionette
+1520774399793	Marionette	INFO	Listening on port 51491
+1520774400039	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 4468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+1520774615250	geckodriver	INFO	geckodriver 0.19.1
+1520774615259	geckodriver	INFO	Listening on 127.0.0.1:51579
+1520774618264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.6WHM2X0NftVt"
+1520774619417	Marionette	INFO	Enabled via --marionette
+1520774623049	Marionette	INFO	Listening on port 51588
+1520774623513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520774712802	geckodriver	INFO	geckodriver 0.19.1
+1520774712812	geckodriver	INFO	Listening on 127.0.0.1:51690
+1520774715819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.gUPtMKIbCt3b"
+1520774716972	Marionette	INFO	Enabled via --marionette
+1520774720600	Marionette	INFO	Listening on port 51698
+1520774721062	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520775031841	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520775031843	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 4900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520775096074	geckodriver	INFO	geckodriver 0.19.1
+1520775096074	geckodriver	INFO	Listening on 127.0.0.1:51851
+1520775099065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.ZUlztpU3SHGT"
+1520775100486	Marionette	INFO	Enabled via --marionette
+1520775104662	Marionette	INFO	Listening on port 51859
+1520775104928	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520775237370	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520775237449	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520776725000	geckodriver	INFO	geckodriver 0.19.1
+1520776725010	geckodriver	INFO	Listening on 127.0.0.1:52560
+1520776727984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.y1wehoN8GsNB"
+1520776729158	Marionette	INFO	Enabled via --marionette
+1520776733384	Marionette	INFO	Listening on port 52570
+1520776733750	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520776776581	geckodriver	INFO	geckodriver 0.19.1
+1520776776597	geckodriver	INFO	Listening on 127.0.0.1:52644
+1520776779615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.b7A7paYUBDrH"
+1520776780724	Marionette	INFO	Enabled via --marionette
+1520776783894	Marionette	INFO	Listening on port 52652
+1520776785672	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/1520776821134	Marionette	INFO	Enabled via --marionette
+1520776825688	Marionette	INFO	Listening on port 52711
+1520776829527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 156: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+1520776840454	geckodriver	INFO	geckodriver 0.19.1
+1520776840461	geckodriver	INFO	Listening on 127.0.0.1:52781
+1520776843453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.CPLZoVTi69OT"
+1520776845125	Marionette	INFO	Enabled via --marionette
+1520776848205	Marionette	INFO	Listening on port 52789
+1520776848709	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520776877973	geckodriver	INFO	geckodriver 0.19.1
+1520776877973	geckodriver	INFO	Listening on 127.0.0.1:52860
+1520776880991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.NDtDssYaVYQE"
+1520776882113	Marionette	INFO	Enabled via --marionette
+1520776885519	Marionette	INFO	Listening on port 52868
+1520776886259	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520777065381	geckodriver	INFO	geckodriver 0.19.1
+1520777065391	geckodriver	INFO	Listening on 127.0.0.1:53021
+1520777068390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.V2uhCUtItp7S"
+1520777069709	Marionette	INFO	Enabled via --marionette
+1520777072839	Marionette	INFO	Listening on port 53030
+1520777073694	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520777357620	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\openvr\openvrpaths.vrpath
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520777653948	geckodriver	INFO	geckodriver 0.19.1
+1520777653955	geckodriver	INFO	Listening on 127.0.0.1:54063
+1520777656975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.Uyc1RWLD19mZ"
+1520777658983	Marionette	INFO	Enabled via --marionette
+1520777663629	Marionette	INFO	Listening on port 54072
+1520777664369	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520777750033	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520777750035	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520777770341	geckodriver	INFO	geckodriver 0.19.1
+1520777770341	geckodriver	INFO	Listening on 127.0.0.1:54228
+1520777773348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.xfAujE71CZr3"
+1520777774482	Marionette	INFO	Enabled via --marionette
+1520777778343	Marionette	INFO	Listening on port 54236
+1520777778680	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520857107456	geckodriver	INFO	geckodriver 0.19.1
+1520857107469	geckodriver	INFO	Listening on 127.0.0.1:62412
+1520857111437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.z6kUYpcpZ274"
+1520857146148	Marionette	INFO	Enabled via --marionette
+Promise rejected while context is inactive: Message manager disconnected
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":519,"1520857270600	Marionette	INFO	Enabled via --marionette
+x/omni.ja!/components/nsAsyncShutdown.js:addBlocker:159","resource://gre/modules/PlacesUtils.jsm:null:1935","resource://gre/modules/XPCOMUtils.jsm:get:199","chrome://browser/content/places/browserPlacesViews.js:set place:55","chrome://browser/content/places/browserPlacesViews.js:PlacesViewBase:18","chrome://browser/content/places/browserPlacesViews.js:PlacesToolbar:992","chrome://browser/content/browser-places.js:PTH_init:1167","chrome://browser/content/browser.js:_delayedStartup:1473"]}] Barrier: profile-before-change
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+1520857979560	geckodriver	INFO	geckodriver 0.19.1
+1520857979576	geckodriver	INFO	Listening on 127.0.0.1:56481
+1520857982653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.8bLz5sB0w8GB"
+1520857986361	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520857994987	Marionette	INFO	Listening on port 56490
+1520857995239	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=&req=2&csor=5&pwd=sele&cb=jQuery110207496373048460252_1520858000926&_=1520858000932, line 1: TypeError: jQuery110207496373048460252_1520858000926 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=&req=2&csor=4&pwd=sel&cb=jQuery110207496373048460252_1520858000926&_=1520858000931, line 1: TypeError: jQuery110207496373048460252_1520858000926 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=&req=2&csor=7&pwd=seleni&cb=jQuery110207496373048460252_1520858000926&_=1520858000934, line 1: TypeError: jQuery110207496373048460252_1520858000926 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=&req=2&csor=6&pwd=selen&cb=jQuery110207496373048460252_1520858000926&_=1520858000933, line 1: TypeError: jQuery110207496373048460252_1520858000926 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=&req=2&csor=8&pwd=seleniu&cb=jQuery110207496373048460252_1520858000926&_=1520858000935, line 1: TypeError: jQuery110207496373048460252_1520858000926 is not a function
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520858309551	geckodriver	INFO	geckodriver 0.19.1
+1520858309565	geckodriver	INFO	Listening on 127.0.0.1:56715
+1520858312527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.oCEYbIHjOvyK"
+1520858316699	Marionette	INFO	Enabled via --marionette
+1520858320434	Marionette	INFO	Listening on port 56724
+1520858320878	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=1&cb=jQuery1102006719730281392211_1520858324905&_=1520858324907, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=2&pwd=s&cb=jQuery1102006719730281392211_1520858324905&_=1520858324908, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=3&pwd=se&cb=jQuery1102006719730281392211_1520858324905&_=1520858324909, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=4&pwd=sel&cb=jQuery1102006719730281392211_1520858324905&_=1520858324910, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=6&pwd=selen&cb=jQuery1102006719730281392211_1520858324905&_=1520858324912, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=8&pwd=seleniu&cb=jQuery1102006719730281392211_1520858324905&_=1520858324914, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=7&pwd=seleni&cb=jQuery1102006719730281392211_1520858324905&_=1520858324913, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1993_1453_25810_21122_22073&req=2&csor=5&pwd=sele&cb=jQuery1102006719730281392211_1520858324905&_=1520858324911, line 1: TypeError: jQuery1102006719730281392211_1520858324905 is not a function
+1520858624545	geckodriver	INFO	geckodriver 0.19.1
+1520858624558	geckodriver	INFO	Listening on 127.0.0.1:56848
+1520858627189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.rOGsbDBMzq2j"
+1520858628322	Marionette	INFO	Enabled via --marionette
+1520858631834	Marionette	INFO	Listening on port 56856
+1520858635707	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520858822925	geckodriver	INFO	geckodriver 0.19.1
+1520858822936	geckodriver	INFO	Listening on 127.0.0.1:56922
+1520858825932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.WuqGiodpRZfL"
+1520858828187	Marionette	INFO	Enabled via --marionette
+1520858832669	Marionette	INFO	Listening on port 56930
+1520858833675	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520858941281	geckodriver	INFO	geckodriver 0.19.1
+1520858941292	geckodriver	INFO	Listening on 127.0.0.1:56996
+1520858944273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Neilguo\\AppData\\Local\\Temp\\rust_mozprofile.gmgh5fZSZ1kf"
+1520858945488	Marionette	INFO	Enabled via --marionette
+1520858950060	Marionette	INFO	Listening on port 57006
+1520858950548	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Neilguo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 464
